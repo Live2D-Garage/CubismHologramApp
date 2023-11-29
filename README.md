@@ -16,7 +16,7 @@ See [LICENSE.md](LICENSE.md).
 ## Recommended environment
 
 | | Android | iPhone, iPad |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | OS | Android 7.0 or higher | iOS 11 or higher |
 | Browser | Google Chrome | Safari |
 
